@@ -1,9 +1,6 @@
 import { FunctionComponent } from 'react'
 import Wrapper from "../assets/wrappers/DashboardMenuModal"
 import { Logo } from '.'
-import { GoCpu } from "react-icons/go";
-import { TfiDashboard } from "react-icons/tfi";
-import { IoDocumentTextOutline } from "react-icons/io5";
 import { Dispatch, SetStateAction } from 'react';
 import { Link } from 'react-router-dom';
 

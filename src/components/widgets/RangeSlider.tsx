@@ -1,4 +1,4 @@
-import React, { InputHTMLAttributes, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import Wrapper from "../../assets/wrappers/RangeSlider"
 import { useState } from 'react'
 
