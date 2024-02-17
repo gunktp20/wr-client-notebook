@@ -45,7 +45,7 @@ function SetupUserDrawer(props: IDrawer) {
   const navigate = useNavigate();
 
   const { isDrawerOpen, setIsDrawerOpen, setIsMember, isMember } = props;
-  const { isLoading, showAlert, alertText, alertType, token } = useAppSelector(
+  const { isLoading, showAlert, alertText, alertType } = useAppSelector(
     (state) => state.auth
   );
 
