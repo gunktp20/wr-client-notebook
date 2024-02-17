@@ -5,13 +5,13 @@ const Wrapper = styled.article`
     align-items:center;
     position: relative;
     display:flex;
-    background-color:#e0fcff2d;
+    background-color:#e0f4ff2c;
     width:100%;
     height:100vh;
     .form-main{
         background-color: #fff;
         box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),0 2px 4px -1px rgba(0, 0, 0, 0.06);
-        border-top: 5px solid #2cb1bc;
+        border-top: 5px solid #3173B1;
         padding: 2rem;
         position:absolute;
         top:5rem;

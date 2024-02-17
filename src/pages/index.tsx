@@ -1,8 +1,8 @@
-import Login from "./Login";
-import Register from "./Register";
-import Test from "./Test";
-import Landing from "./Landing";
-import Dashboard from "./Dashboard";
-import ForgetPass from "./ForgetPass";
+import Landing from "./Landing/";
+import ResetPass from "./ResetPass";
+import TermAndCondition from "./TermAndCondition";
+import RequireAuth from "./RequireAuth";
+import NotFound from "./NotFound";
+import Unauthorized from "./Unauthorized";
 
-export { Login , Register , Test , Landing , Dashboard , ForgetPass}
+export { Landing, ResetPass, TermAndCondition, RequireAuth, NotFound, Unauthorized };
